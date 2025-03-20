@@ -3,7 +3,7 @@ import pygame
 pygame.init()
 
 
-width, height = 1600, 1600
+width, height = 1500, 1500
 screen = pygame.display.set_mode((width, height))
 pygame.display.set_caption("Злой смайлик")
 
